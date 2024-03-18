@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+    <string name="details">Details</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Phish</item>
+        <item>Knower</item>
+        <item>Grateful Dead</item>
+        <item>Ween</item>
+        <item>Black Midi</item>
+        <item>Machine Girl</item>
+        <item>Aphex Twin</item>
+        <item>Pink Floyd</item>
+        <item>Weather Report</item>
+        <item>Bjork</item>
+        <item>King Gizzard and the Lizard Wizard</item>
+        <item>Steely Dan</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>An American jam band from Vermont that formed in 1983</item>
+        <item>An American jazz-fusion duo from California that formed in 2009</item>
+        <item>An American jam band from California that formed in 1965</item>
+        <item>An American rock band from Pennsylvania that formed in 1984</item>
+        <item>An English rock band from London that formed in 2017</item>
+        <item>An American electronic music project from New York that formed in 2012</item>
+        <item>An Irish electronic musician from Limerick that started in 1991</item>
+        <item>An English rock band from London that formed in 1965</item>
+        <item>An American jazz-fusion band from New York that formed in 1970 </item>
+        <item>An Icelandic singer from Reykjavik that started in 1993</item>
+        <item>An Australian rock band that from in Melbourne that formed in 2010</item>
+        <item>An American rock band from New York that formed in 1971</item>
+    </string-array>
+</resources>
